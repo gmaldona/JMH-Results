@@ -1,0 +1,15 @@
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  img {
+      width: 150%;
+  }

@@ -1,0 +1,5 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"com.jenkov.MyBenchmark.ConnClient.benchmarkHighWriteHighRead","avgt",50,5,1.988211,3.050701,"us/op"
+"com.jenkov.MyBenchmark.ConnClient.benchmarkLowWriteHighRead","avgt",50,5,0.744818,0.297019,"us/op"
+"com.jenkov.MyBenchmark.CustomClient.benchmarkHighWriteHighRead","avgt",50,5,192.714761,45.111952,"us/op"
+"com.jenkov.MyBenchmark.CustomClient.benchmarkLowWriteHighRead","avgt",50,5,104.007910,9.911667,"us/op"
