@@ -1,0 +1,1700 @@
+ACC 201 - Principles of Accounting I
+ACC 202 - Principles of Accounting II
+ACC 301 - Intermediate Accounting I
+ACC 302 - Intermediate Accounting II
+ACC 305 - Accounting Information Systems
+ACC 310 - Cost Accounting
+ACC 315 - International Accounting Concepts
+ACC 320 - Managerial Accounting
+ACC 321 - Accounting as a Management Tool
+ACC 330 - Federal Tax Accounting I
+ACC 340 - Accounting for Non-Profit Organizations
+ACC 410 - Fraud Examination
+ACC 425 - Topics in Accounting
+ACC 430 - Auditing
+ACC 431 - Federal Tax Accounting II
+ACC 440 - Advanced Accounting
+ADO 310 - Discipline Specific Methods: English Language Arts Grades 7-12
+ADO 313 - Field Experience III: Discipline Specific English Language Arts Grades 7-12
+ADO 320 - Discipline Specific Methods: Second Language Acquisition/Modern Language
+ADO 323 - Field Experience III: Discipline Specific Second Language Acquisition/Modern Language Grades 7-12
+ADO 330 - Discipline Specific Methods: Mathematics Grades 7-12
+ADO 333 - Field Experience III: Discipline Specific Mathematics Grades 7-12
+ADO 340 - Discipline Specific Methods: Science Grades 7-12
+ADO 343 - Field Experience III: Science Practicum Grades 7-12
+ADO 350 - Discipline Specific Methods: Social Studies Grades 7-12
+ADO 353 - Field Experience III: Social Studies Practicum Grades 7-12
+ADO 394 - Interdisciplinary Methods Grades 7-12
+ADO 420 - Student Teaching Grades 7-12
+ADO 421 - Cross-Cultural Student Teaching Grades 7-12
+ARS 210 - Sub-Saharan Africa & Diaspora
+ARS 499 - Independent Study
+ASL 101 - Elementary American Sign Language
+ASL 102 - Continuing Elementary American Sign Language
+ASL 201 - Intermediate American Sign Language
+ASL 301 - Intro to American Deaf Culture
+AMS 100 - Introduction to American Studies
+AMS 400 - Seminar In American Studies
+AMS 499 - Independent Study
+ANT 111 - Archaeology and Human Evolution
+ANT 112 - Cultural Anthropology
+ANT 210 - History of Ethnological Theory
+ANT 230 - Introductory Archaeology
+ANT 280 - Biological Anthropology
+ANT 300 - Sex and Gender Across Cultures
+ANT 301 - Selected Topics
+ANT 302 - Teaching Anthropology I
+ANT 303 - Conservation and Ethical Treatment of Nonhuman Primates
+ANT 310 - Research Methods
+ANT 321 - Caves, Paintings and Carvings: The Paleolithic of Southern France
+ANT 331 - Digging Up the Past: Humans and the Environment Through the Ages
+ANT 335 - Experimental Archaeology
+ANT 337 - Archaeology, Historic Preservation, and Cultural Resource Management (CRM)
+ANT 338 - Prehispanic Civilizations of Mesoamerica
+ANT 339 - Archaeology of the American Southwest
+ANT 341 - Archaeology of the Old World
+ANT 344 - Language and Culture
+ANT 345 - Sociolinguistics
+ANT 354 - Forensic Anthropology
+ANT 355 - Medical Anthropology
+ANT 356 - Cultural History of the Iroquois
+ANT 368 - Death and Dying: A Cross-Cultural Perspective
+ANT 372 - Peoples and Culture of China
+ANT 375 - North American Indians
+ANT 383 - Disease and Human Behavior
+ANT 395 - Globalization and Global Cultures
+ANT 399 - Independent Study
+ANT 402 - Teaching Anthropology II
+ANT 410 - Issues in Anthropology: History, Theory, Methods
+ANT 430 - Advanced Archaeology
+ANT 442 - Races and Minorities
+ANT 451 - Human Osteology
+ANT 454 - Advanced Forensic Anthropology
+ANT 455 - Human Growth and Development
+ANT 499 - Independent Study
+ARA 101 - Elementary Arabic
+ARA 102 - Continuing Elementary Arabic
+ART 100 - Introduction to the Visual Arts
+ART 102 - Topics in Traditional Media and Methods
+ART 103 - Topics in Emerging Media and Methods
+ART 105 - Design Concepts I: 2D
+ART 106 - Design Concepts II: 3D
+ART 110 - Gender and Contemporary Visual Culture
+ART 111 - Freshman Colloquium
+ART 205 - Design Concepts II - 2D
+ART 207 - Digital Media
+ART 209 - Typography
+ART 210 - Drawing I
+ART 211 - Drawing to Communicate
+ART 215 - Painting I
+ART 220 - Watercolor Painting I
+ART 225 - Introduction to Printmaking
+ART 230 - Ceramics I
+ART 240 - Photography I
+ART 243 - Introduction to Digital Photography
+ART 245 - Sculpture I
+ART 250 - Western Heritage I - Survey of Art I
+ART 251 - Western Heritage II - Survey of Art II
+ART 260 - Wood Design
+ART 300 - Figure Drawing I
+ART 302 - Foundations of Motion and Interaction
+ART 304 - Motion Graphics I
+ART 307 - Type and Image
+ART 308 - Branding & Packaging Design
+ART 309 - Multimedia I
+ART 310 - Intermediate Drawing
+ART 311 - Transer Student Colloquium
+ART 312 - Introduction to Illustration I
+ART 313 - Digital Illustration I
+ART 315 - Painting II
+ART 316 - Painting III
+ART 317 - Web Media I
+ART 318 - Introduction to Three-Dimensional Modeling and Animation
+ART 321 - Figure Painting
+ART 322 - Drawing for Transfer Students
+ART 323 - Digital Media for Transfer Students
+ART 324 - Introduction to Book Arts
+ART 325 - Printmaking-Intaglio
+ART 326 - Screenprinting
+ART 330 - Ceramics II
+ART 333 - Special Topics in Studio Art
+ART 336 - Art Therapy Practices
+ART 339 - Art Therapy Principles
+ART 340 - Black and White Darkroom Photography 1
+ART 342 - Experimental Photography
+ART 343 - Intermediate Digital Photography
+ART 345 - Sculpture
+ART 346 - Wood and Mixed Media Sculpture
+ART 347 - Puppets and Performing Objects
+ART 348 - Creative Code for the Visual Artist-I
+ART 350 - Italian Renaissance Art
+ART 351 - Northern Renaissance Art
+ART 353 - Twentieth-Century Art
+ART 354 - Art in America I
+ART 355 - The Creative State of New York
+ART 356 - History of Photography
+ART 357 - Gender and the Visual Arts
+ART 358 - Native North American Indian Art and Architecture
+ART 364 - Medieval Art
+ART 365 - History of Graphic Design
+ART 368 - Chinese Art
+ART 369 - Japanese Art
+ART 371 - Art and Architecture of Islamic Cultures
+ART 374 - Asian Art Through the Silk Road
+ART 375 - Research Methods and Writing for Art History
+ART 376 - Graphic Novel
+ART 380 - Introduction to Museum Studies
+ART 381 - Contemporary Museum Issues
+ART 387 - Modern Art and Mass Culture
+ART 388 - American Visual Art and Culture, 1865 - 1960
+ART 391 - Special Topics in Art History
+ART 395 - Graphic Design Facility Management
+ART 396 - Two Dimensional, Experimental Studio
+ART 397 - Three Dimensional, Experimental Studio
+ART 399 - Independent Study
+ART 400 - Figure Drawing II
+ART 401 - Figure Drawing III
+ART 408 - Publication Design
+ART 409 - Multimedia II
+ART 410 - Drawing III
+ART 411 - Drawing IV
+ART 412 - Advanced Problems in Traditional Illustration
+ART 413 - Digital Illustration II
+ART 414 - Graphic and Interactive Design Practicum
+ART 415 - Painting IV
+ART 417 - Web Media II
+ART 418 - Advanced Three-Dimensional Modeling and Animation
+ART 422 - Advanced Drawing and Painting
+ART 423 - Advanced Problems in Illustration
+ART 425 - Advanced Problems in Printmaking
+ART 426 - Letterpress and Photopolymer Printing
+ART 430 - Ceramics III
+ART 431 - Ceramics IV
+ART 443 - Advanced Digital Photography
+ART 445 - Project Studio in 3D/4D Studies
+ART 448 - Creative Code for the Visual Artist-II
+ART 451 - Motion Graphics
+ART 471 - Senior Seminar in Contemporary Art and Design
+ART 472 - Special Topics in Contemporary Art
+ART 492 - BFA Exhibition
+ART 496 - Studio Practicum
+ART 498 - Internship
+ART 499 - Independent Study
+ARH 260 - Art History Topics in Western Art
+ARH 261 - Art History Topics in Non-Western Art
+AST 100 - Astronomy
+AST 310 - Topics in Modern Astronomy
+AST 311 - Solar System Astronomy
+AST 350 - Observational Astronomy
+AST 360 - Human Futures
+AST 390 - Special Topics in Astronomy
+AST 399 - Independent Study
+AST 401 - Advanced Astronomy
+AST 405 - Introductory Astrophysics
+AST 499 - Independent Study
+BIO 101 - General Biology
+BIO 110 - Biology Seminar
+BIO 120 - Molecular and Cellular Foundations
+BIO 200 - Human Impacts on the Environment
+BIO 203 - Human Biology
+BIO 207 - Understanding Evolution
+BIO 211 - Human Genetics
+BIO 220 - Diversity of Life
+BIO 296 - Directed Research
+BIO 301 - Topics in Modern Biology
+BIO 303 - Conservation and Ethical Treatment of Nonhuman Primates
+BIO 304 - Insects and People
+BIO 309 - Cellular Physiology
+BIO 310 - Microbiology
+BIO 311 - Ecology of Host-Microbial Interactions
+BIO 315 - Genetics
+BIO 316 - Laboratory in Genetics
+BIO 318 - Biotechnology
+BIO 320 - Introductory Ecology
+BIO 322 - Microscopy and Imaging Techniques
+BIO 323 - Geographic Information Systems in Ecology and Conservation
+BIO 324 - Population Biology
+BIO 325 - Behavioral Biology
+BIO 327 - Sexual Diversity and Evolution
+BIO 340 - The Plant Kingdom
+BIO 341 - Plants and Society
+BIO 342 - Fungal Biology
+BIO 357 - Plant Systematics
+BIO 358 - Plant Ecology
+BIO 363 - Great Lakes Environmental Issues
+BIO 370 - The Animal Kingdom
+BIO 381 - Immunology
+BIO 390 - Climate Change Ecology
+BIO 394 - International Study in Biology
+BIO 396 - Teaching Assistant in the Biological Sciences
+BIO 399 - Independent Study
+BIO 400 - Ecosystems and Society
+BIO 420 - Wetland Ecology
+BIO 421 - Winter Ecology
+BIO 425 - Evolution
+BIO 439 - Molecular Biology
+BIO 440 - Developmental Plant Biology
+BIO 451 - Human Pathophysiology
+BIO 453 - Pharmacology
+BIO 457 - Introduction to Bioinformatics
+BIO 460 - Conservation Biology
+BIO 474 - Parasitology
+BIO 492 - Research
+BIO 497 - Senior Honors Thesis
+BIO 498 - Internship in Biology
+BIO 499 - Independent Study
+BRC 108 - Introduction to Mass Media
+BRC 200 - Social History of American Radio and Television
+BRC 215 - Broadcast Performance
+BRC 220 - Radio Production
+BRC 222 - Introduction to New Media
+BRC 223 - Integrated Media Writing and Design
+BRC 229 - Broadcast News Writing
+BRC 235 - Introduction to Video Production
+BRC 300 - Broadcasting and Cable
+BRC 301 - Media Economics
+BRC 305 - Media Management
+BRC 308 - Sound for Television and Film
+BRC 309 - Sound for Television and Film II
+BRC 315 - Post Production and Editing
+BRC 319 - Mass Media and the Law
+BRC 320 - Programs, Programming and Effects
+BRC 321 - Electronic Media Sales and Marketing
+BRC 325 - Research Methods for Mass Media
+BRC 328 - Media Copywriting
+BRC 329 - Broadcast News Reporting
+BRC 330 - Telecommunications
+BRC 345 - Sports Broadcasting
+BRC 350 - Children, Women, and Minorities in the Media
+BRC 370 - Comparative Studies in World Broadcasting
+BRC 399 - Independent Studies
+BRC 400 - Media and Society
+BRC 419 - Mass Media & Politics
+BRC 420 - Technology and Culture
+BRC 421 - Social Networks and the Web
+BRC 425 - Media Audiences
+BRC 428 - Scriptwriting for Television
+BRC 429 - Broadcast News Processing and Producing
+BRC 445 - Advanced Television Production
+BRC 450 - Topics in Broadcasting
+BRC 455 - Electronic Field Production and Video Post Production
+BRC 460 - Global Documentary Production
+BRC 465 - Dramatic Video Production
+BRC 497 - Broadcast Practicum
+BRC 498 - Broadcasting Internship
+BRC 499 - Independent Study
+BUS 296 - Teaching Assistant in the School of Business
+BUS 396 - Teaching Assistant in the School of Business
+BUS 498 - Management Internship
+BUS 499 - Independent Study
+BLW 280 - Business Law I
+BLW 355 - Legal and Regulatory Environment of Business
+BLW 381 - Business Law II
+BLW 455 - Cyber Law
+CHE 101 - Survey of Chemistry
+CHE 101 Lab - Survey of Chemistry Laboratory
+CHE 110 - Freshman Chemistry Seminar
+CHE 111 - General Chemistry
+CHE 113 - Laboratory (for CHE 111)
+CHE 120 - Applied Math for General Chemistry
+CHE 209 - Chemistry and Public Concern
+CHE 212 - General Chemistry II
+CHE 214 - General Chemistry II Lab
+CHE 216 - Fermentation Science in a Global Society
+CHE 230 - Introductory Organic Chemistry
+CHE 230 Lab - Introductory Organic Chemistry Laboratory
+CHE 300 - Environmental Science
+CHE 301 - Chemical Safety
+CHE 305 - Criminalistic Chemistry
+CHE 318 - Advanced Fermentation Science
+CHE 322 - Analytical Chemistry
+CHE 331 - Organic Chemistry
+CHE 332 - Organic Chemistry II
+CHE 341 - Physical Chemistry
+CHE 342 - Physical Chemistry II
+CHE 343 - Comprehensive Physical Chemistry Laboratory
+CHE 360 - Introductory Biochemistry
+CHE 360 Lab - Introductory Biochemistry Laboratory
+CHE 397 - Research in Chemistry
+CHE 399 - Independent Study
+CHE 401 - Special Topics in Advanced Chemistry
+CHE 403 - NMR Laboratory
+CHE 405 - Forensic Science
+CHE 425 - Instrumental Analysis
+CHE 433 - Organic Synthesis
+CHE 434 - Advanced Organic Chemistry Laboratory
+CHE 436 - Advanced Organic Chemistry
+CHE 440 - Organic Spectroscopy
+CHE 445 - Computational Methods in Chemistry
+CHE 448 - Chemical Application of Group Theory
+CHE 451 - Inorganic Chemistry
+CHE 451 Lab - Inorganic Chemistry Laboratory
+CHE 455 - Medicinal Chemistry
+CHE 458 - Crystallography
+CHE 461 - Biochemistry
+CHE 461 Lab - Biochemistry Laboratory
+CHE 462 - Biochemistry II
+CHE 462 Lab - Biochemistry II Laboratory
+CHE 471 - Proteomics with Laboratory
+CHE 473 - Environmental Chemistry
+CHE 473 Lab - Environmental Chemistry Laboratory
+CHE 494 - Capstone Research
+CHE 495 - Teaching of Chemistry
+CHE 498 - Internship
+CHE 499 - Independent Study
+CED 330 - Teaching Mathematics: Authentic Literacy and Learning
+CED 340 - Teaching Science and Technology: Authentic Literacy and Learning
+CED 350 - Teaching Social Studies: Authentic Literacy and Learning
+CED 393 - Field Experience III: Planning and Teaching Practicum
+CED 394 - Integrated Childhood Methods
+CED 420 - Childhood Student Teaching
+CED 421 - Cross-Cultural Student Teaching
+CHI 101 - Elementary Chinese
+CHI 102 - Continuing Elementary Chinese
+CHI 140 - Chinese Cities, Customs, Culture
+CHI 201 - Intermediate Chinese
+CHI 202 - Continuing Intermediate Chinese
+CHI 302 - Advanced Chinese: Culture, Communication, Commerce (China)
+CSS 111 - First-Year Film Practicum
+CSS 235 - Introduction to Cinema Production
+CSS 288 - Film and Philosophy
+CSS 333 - Critics and Criticism
+CSS 335 - Intermediate Cinema Production
+CSS 336 - Cinematography
+CSS 337 - Motion Picture Editing
+CSS 360 - Studies in National Cinemas
+CSS 385 - Children’s Literature and Film
+CSS 391 - Film Practicum
+CSS 395 - Special Topics
+CSS 396 - CSS Teaching Assistant
+CSS 435 - Motion Picture Directing
+CSS 485 - Experimental Filmmaking
+CSS 487 - Advanced Studies in Film Theory
+CSS 491 - Location-based Filmmaking
+CSS 496 - Senior Thesis
+COG 166 - Introduction to Cognitive Science
+COG 212 - Programming and Problem Solving
+COG 241 - Programming and Knowledge Representation
+COG 266 - Brains, Minds and Consciousness
+COG 316 - Cognitive Musicology
+COG 356 - Generative Processes and Abstract Machines
+COG 366 - Computational Models of Cognitive Processes
+COG 376 - Computer Models of Language Representation and Processing
+COG 399 - Independent Study
+COG 411 - Introduction into Neural Networks
+COG 435 - Cognitive Systems
+COG 444 - Semiotics and the Study of Meaning
+COG 468 - Cognitive Science Capstone Seminar
+COG 490 - Selected Topics in Cognitive Science
+COG 499 - Independent Study
+COM 100 - Foundations of Communication
+COM 210 - Critical Thinking and Public Speaking
+COM 211 - Strategic Communication in Business
+COM 212 - Interpersonal Communication
+COM 215 - Survey of Public Relations
+COM 240 - Group Interaction and Discussion
+COM 295 - Selected Topics in Communication
+COM 301 - Communication Theories
+COM 302 - Message Criticism
+COM 313 - Writing for Public Relations and Mass Media
+COM 314 - Crisis Communication
+COM 315 - Design and Layout for Media
+COM 316 - Survey of Health Communication
+COM 317 - Public Relations Research
+COM 318 - Event Planning
+COM 322 - Female-Male Communication
+COM 340 - Conflict Management
+COM 350 - Argumentation and Debate
+COM 360 - Persuasion
+COM 365 - Organizational Communication
+COM 370 - Persuasion and Social Movements
+COM 375 - Rhetoric of Film
+COM 380 - Communication Ethics
+COM 395 - Studies in Communication
+COM 399 - Independent Study
+COM 403 - Communication Research Methods
+COM 412 - Advanced Interpersonal Communication
+COM 415 - Case Studies in Public Relations
+COM 416 - Capstone in Public Relations
+COM 421 - Gender and Communication
+COM 422 - Intercultural Communication
+COM 423 - Diversity, Identity, and Communication
+COM 490 - Communication and Service Learning
+COM 497 - Communication Practicum
+COM 498 - Communication Internship
+COM 499 - Independent Study
+CMA 100 - Arts and Ideas
+CMA 200 - Digital Imagery Fundamentals
+CMA 201 - Graphic Design Essentials
+CMA 202 - Web & Social Media Design
+CMA 250 - Introduction to Arts Management
+CMA 300 - Experiencing Arts and Ideas
+CMA 396 - Global Experience
+CMA 400 - Integrated Media Theory and Design
+CMA 401 - Artistic Integration and Collaboration
+CMA 410 - Hollywood POV
+CMA 495 - SCMA Capstone Experience
+CMA 497 - Course Assistant
+CMA 498 - SCMA Professional Development
+CMA 499 - SCMA Independent Study
+CAS 301 - Special Topics
+CSC 101 - Tools for Computing
+CSC 102 - Business Information Systems and Computing Tools
+CSC 103 - Computing Tools & Information Literacy for Educators
+CSC 120 - Introduction to Programming and Programming Languages
+CSC 212 - Principles of Programming
+CSC 221 - Foundations of Computer Science
+CSC 222 - Computer Organization and Programming
+CSC 241 - Abstract Data Types and Programming Methodology
+CSC 320 - Numerical Methods
+CSC 322 - Systems Programming
+CSC 332 - Cryptology
+CSC 333 - Privacy, Security, and Cryptology
+CSC 344 - Programming Languages
+CSC 350 - Computational Linguistics
+CSC 365 - Data Structures and Algorithms
+CSC 366 - Computational Models of Cognitive Processes
+CSC 375 - Parallel Computing
+CSC 380 - Software Engineering
+CSC 385 - Software Quality
+CSC 390 - Selected Topics in Computer Science
+CSC 416 - Artificial Intelligence Programming Languages
+CSC 420 - Graphical User Interfaces
+CSC 430 - Topics in Computer Games
+CSC 435 - Web Services
+CSC 436 - Software and Safety Requirements Engineering
+CSC 444 - Compiler Construction
+CSC 445 - Computer Networks
+CSC 454 - System Simulation and Virtual Worlds
+CSC 455 - Computer Game Programming
+CSC 459 - Data Base Management Systems
+CSC 466 - Artificial Intelligence and Heuristic Programming
+CSC 470 - Computer Graphics
+CSC 472 - Computational Engineering
+CSC 480 - Software Design
+CSC 482 - Software Deployment
+CSC 490 - Selected Topics
+CSC 495 - Software Engineering Project Seminar I
+CSC 496 - Software Engineering Project Seminar II
+CSC 499 - Independent Study
+CPS 308 - Issues and Careers in Human Services
+CPS 310 - Introduction to Counseling
+CPS 391 - Introduction to Family Systems
+CPS 392 - Introduction to Play Therapy
+CPS 393 - Introduction to Expressive Arts Therapy
+CPS 394 - Expressive Arts Therapy: Theory in Process
+CPS 395 - Current Topics in CPS
+CRW 201 - Introductory Screenwriting
+CRW 205 - Poetry Writing: Introductory
+CRW 206 - Fiction Writing: Introductory
+CRW 207 - Playwriting: Introductory
+CRW 208 - Creative Nonfiction Writing: Introductory
+CRW 210 - Graphic Storytelling: Introductory
+CRW 250 - Writing into Culture
+CRW 295 - Specialized Studies in Creative Writing: Introduction
+CRW 300 - Living Writers Series
+CRW 301 - Screenwriting: Intermediate
+CRW 305 - Poetry Writing: Intermediate
+CRW 306 - Fiction Writing: Intermediate
+CRW 307 - Playwriting: Intermediate
+CRW 308 - Creative Nonfiction Writing: Intermediate
+CRW 313 - Digital Storytelling
+CRW 330 - Form and Theory of Genres
+CRW 355 - Literary Citizenship
+CRW 395 - Specialized Studies in Creative Writing: Intermediate
+CRW 396 - Creative Writing Pedagogies for Teaching Assistants
+CRW 399 - Independent Study
+CRW 401 - Screenwriting: Advanced
+CRW 405 - Poetry Writing: Advanced
+CRW 406 - Fiction Writing: Advanced
+CRW 407 - Playwriting: Advanced
+CRW 408 - Creative Nonfiction Writing: Advanced
+CRW 411 - Screenwriting Rewrites
+CRJ 101 - Introduction to Criminal Justice
+CRJ 205 - History of Policing in America
+CRJ 210 - Introduction to Policing
+CRJ 220 - Intro to Courts & Judicial Process
+CRJ 230 - Introduction to Corrections
+CRJ 300 - Topics in Public Justice
+CRJ 312 - The Study of Homicide and Lethal Violence
+CRJ 313 - The Death Penalty
+CRJ 325 - The Poor and the Courts
+CRJ 326 - Professional and Ethical Dilemmas in Criminal Justice
+CRJ 330 - Crime and the Media
+CRJ 333 - Crime Theories and Victimization
+CRJ 335 - Latinos and the Criminal Justice System
+CRJ 337 - Child Abuse and the Legal System
+CRJ 340 - The Global Nature of Crime and Justice in Puerto Rico
+CRJ 343 - Community Policing
+CRJ 345 - Criminal Investigation
+CRJ 347 - Crime and Society
+CRJ 348 - Criminal Evidence
+CRJ 351 - Report Writing in Public Justice
+CRJ 355 - Wrongful Convictions
+CRJ 360 - Discrimination in the Workplace: A Legal Perspective
+CRJ 361 - Family Law
+CRJ 363 - Women & the Law
+CRJ 365 - Introduction to Criminal Law
+CRJ 366 - Organized Crime
+CRJ 367 - Women and Crime
+CRJ 368 - Violence in the Workplace
+CRJ 370 - Criminal Procedure
+CRJ 377 - Choosing to Die: Suicide, Assisted Suicide, and Euthanasia
+CRJ 383 - Terrorism and Homeland Security
+CRJ 385 - Drugs and Crime
+CRJ 387 - Research Methods for Criminal Justice
+CRJ 388 - Data Analysis
+CRJ 399 - Ind Readings
+CRJ 400 - Advanced Topics in Public Justice
+CRJ 401 - Seminar in Public Justice
+CRJ 415 - Policing Theory and Practice
+CRJ 425 - Comparative Justice Systems
+CRJ 435 - Police Management
+CRJ 454 - Religion, Crime and Justice
+CRJ 461 - Children and the Law
+CRJ 463 - American Indian Law & Federal Indian Policy
+CRJ 490 - Practicum in Teaching Criminal Justice
+DNC 112 - Beginning Modern Dance Technique
+DNC 116 - Beginning Jazz Dance Technique
+DNC 118 - Beginning Ballet Technique
+DNC 212 - Intermediate Modern Dance Technique
+DNC 216 - Intermediate Jazz Dance Technique
+DNC 218 - Intermediate Ballet Technique
+DNC 250 - Dance Around the World
+DNC 312 - Advanced Modern Dance Technique
+DNC 316 - Advanced Modern Jazz Dance Technique
+DNC 318 - Advanced Ballet Technique
+DNC 350 - Dance History
+DNC 360 - Anatomy for Dancers
+DNC 380 - Choreography
+DNC 399 - Independent Study
+DNC 499 - Independent Study
+ECH 383 - Language Arts, Culture and Media for Young Children
+ECO 101 - Principles of Microeconomics
+ECO 120 - Survey of Economic Issues
+ECO 200 - Principles of Macroeconomics
+ECO 300 - Intermediate Macro Theory
+ECO 301 - Intermediate Micro Theory
+ECO 302 - Managerial Economics
+ECO 305 - Topics in Economics
+ECO 311 - Mathematical Economics
+ECO 312 - Introduction to Econometrics
+ECO 320 - Comparative Economic Systems
+ECO 322 - History of Economic Doctrines
+ECO 326 - American Economic History Before 1900
+ECO 327 - Issues in American Economic History Since 1900
+ECO 330 - Economic Development
+ECO 340 - Money and Banking
+ECO 341 - The Political Economy of Financial Crises
+ECO 343 - International Finance
+ECO 344 - International Trade
+ECO 345 - International Monetary and Financial Management
+ECO 349 - Economics of Education
+ECO 350 - Introduction to Labor Economics
+ECO 355 - Labor Law
+ECO 370 - Public Finance
+ECO 378 - Health Economics
+ECO 380 - Industrial Organization
+ECO 390 - Environmental Economics
+ECO 396 - TA in Economics
+ECO 399 - Independent Study
+ECO 405 - Seminar in Economic Theory and Policy
+ECO 409 - Mathematical Economics Problem Seminar
+ECO 498 - Internship in Economics
+ECO 499 - Independent Study in Economics
+DASA 1020 - DASA Training
+EDU 101 - Introduction to College Level Learning
+EDU 104 - Strategy Instruction in the Disciplines
+EDU 114 - Comparative and International Education: Non-Western Perspectives
+EDU 200 - Critical Thinking: Schools, Homes, and Communities
+EDU 204 - Training: College Level Tutors
+EDU 210 - History of Education in the United States Since 1865
+EDU 300 - Elected Field Experience
+EDU 301 - Schooling, Pedagogy, and Social Justice
+EDU 303 - Field Placement I: Observation and Participation
+EDU 305 - Topics in Education
+EDU 380 - Culturally Relevant Teaching
+EDU 381 - Schools and Urban Society
+EDU 382 - Schools in Global Context
+EDU 383 - Teaching English Language Learners Across the Curriculum
+EDU 430 - Professionalism & Social Justice Seminar
+SSE 200 - Basic Concepts in Social Studies
+SSHS 1020 - Safe Schools, Healthy Students
+ECE 101 - Introduction to Engineering
+ECE 211 - Electric Circuits
+ECE 233 - Signals and Systems
+ECE 271 - Digital Systems
+ECE 314 - Microelectronic Circuits
+ECE 321 - Power Circuits and Systems
+ECE 335 - Digital Signal Processing
+ECE 344 - Electromagnetics
+ECE 365 - Control Systems
+ECE 375 - Microprocessor Applications
+ECE 388 - Humanoid Robitics
+ECE 396 - ECE Mentorship
+ECE 401 - ECE Seminar
+ECE 416 - Advanced Electronics
+ECE 421 - Power Electronics
+ECE 454 - Communications Systems
+ECE 455 - Wireless Communications
+ECE 463 - Elements of Robotics
+ECE 472 - Advanced Digital Systems
+ECE 475 - Computer Architecture
+ECE 491 - Capstone Design Proposal
+ECE 492 - Capstone Design
+ECE 499 - Independent Study
+ENG 101 - Composition I
+ENG 102 - Composition II
+ENG 103 - Advanced Listening Comprehension
+ENG 104 - Advanced Reading
+ENG 105 - Advanced Spoken English
+ENG 150 - Principles of Literary Representation
+ENG 160 - General Folklore
+ENG 195 - Specialized Studies
+ENG 204 - Writing About Literature
+ENG 210 - Western Heritage I: Literature
+ENG 211 - Western Heritage II: Literature
+ENG 220 - Modern Culture and Media
+ENG 235 - American Literature from the Beginning to the Civil War
+ENG 236 - American Literature from the Civil War to the Present
+ENG 237 - Ethnicity and Cultural Difference in Literature
+ENG 238 - Introduction to Latina/o/x Cultural Expressions
+ENG 265 - Sophomore Seminar: Studies in Genre
+ENG 271 - Practical English Grammar
+ENG 286 - Introduction to Cinema and Screen Studies
+ENG 295 - Specialized Studies
+ENG 302 - Advanced Composition
+ENG 304 - Literary Criticism
+ENG 310 - Literature of Medieval England
+ENG 311 - Sixteenth-Century Prose and Poetry
+ENG 312 - Seventeenth-Century Prose and Poetry
+ENG 313 - Restoration and Eighteenth-Century British Literature
+ENG 315 - British Romantic Writers
+ENG 319 - Shakespeare: An Introduction
+ENG 322 - Nineteenth-Century English Novel
+ENG 323 - Twentieth-Century British Fiction
+ENG 325 - Chaucer
+ENG 326 - English Drama: City Comedy and Revenge Tragedy
+ENG 327 - English Drama: Satire and Empire
+ENG 328 - Milton
+ENG 333 - Twentieth-Century American Literature
+ENG 337 - Topics in American Ethnic Literature
+ENG 340 - Modern American Drama
+ENG 342 - The Nineteenth-Century American Novel
+ENG 343 - The Twentieth-Century American Novel
+ENG 347 - Contemporary Native American Literature
+ENG 350 - Modern Drama
+ENG 351 - American Poetry Since 1945
+ENG 356 - Latina Writings and Theories
+ENG 357 - Black Women Writers
+ENG 360 - Literature in a Global Context
+ENG 361 - Literature of Travel, Migration, Diaspora
+ENG 362 - Genre - History - Theory
+ENG 365 - Junior Seminar: Author
+ENG 370 - Women in Literature
+ENG 373 - Theories of Language
+ENG 374 - History and Development of the English Language
+ENG 375 - Theories of Diverse Sexuality
+ENG 376 - Science Fiction
+ENG 380 - Narratives of Identity
+ENG 381 - Narrative Theory
+ENG 382 - Modern African Literature
+ENG 384 - Young Adult Literature
+ENG 385 - Children’s Literature
+ENG 386 - The Cinema
+ENG 387 - Vision and Textuality
+ENG 388 - Film Genre
+ENG 389 - Documentary Traditions
+ENG 390 - Images of Native Americans in Film
+ENG 391 - Writing Portfolio
+ENG 395 - Specialized Studies
+ENG 396 - Literature Studies Pedagogies for Teaching Assistants
+ENG 399 - Independent Study
+ENG 426 - Shakespearean Contexts
+ENG 427 - Shakespeare and Interpretive Theories
+ENG 465 - Seminar in Advanced Literary Study
+ENG 470 - Feminist Theory
+ENG 485 - Words in the World
+ENG 486 - World Cinema
+ENG 488 - Auteur Studies
+ENG 489 - Women and Screen Studies
+ENG 499 - Independent Study
+FIN 325 - Corporate Finance
+FIN 340 - Financial Statement Analysis
+FIN 354 - Investments
+FIN 391 - Real Estate Finance
+FIN 425 - Topics in Finance
+FIN 426 - Multinational Financial Management
+FIN 427 - Management of Financial Institutions
+FIN 428 - Applied Financial Management
+FIN 430 - Portfolio Management
+FIN 442 - Commercial Credit Analysis
+FIN 447 - Commercial Banking Seminar
+FIN 454 - Financial Options and Futures
+FRE 101 - Elementary French
+FRE 102 - Continuing Elementary French
+FRE 201 - Intermediate French
+FRE 202 - Continuing Intermediate French
+FRE 301 - Advanced French A
+FRE 302 - Advanced French B
+FRE 303 - Advanced French: Culture, Communications, Commerce
+FRE 310 - Business French
+FRE 315 - French Language and Culture through Film
+FRE 320 - French Phonetics
+FRE 321 - La Francophonie
+FRE 340 - French Literature in Translation
+FRE 350 - Survey of French Literature
+FRE 351 - Survey of French Literature
+FRE 355 - French Culture and Civilization I
+FRE 356 - French Culture and Civilization II
+FRE 379 - The Francophone World: Literature, Theory & Politics of Diversity
+FRE 385 - French Cinema and Culture
+FRE 395 - Seminar
+FRE 396 - French Teaching Assistantship
+FRE 403 - Seminar: Study of Text
+FRE 417 - French Novel of 19th Century
+FRE 480 - Senior Capstone Seminar
+FRE 498 - French Internship
+FRE 499 - Independent Study
+GST 100 - College Orientation and Success
+GST 101 - Professional Skills Preparatory
+GST 102 - Contemporary Social Issues
+GST 103 - Exploring Your Strengths
+GST 110 - Major Exploration and Career Exploration
+GST 120 - Leadership in Action
+GST 270 - U.S. Culture for International Students
+GST 302 - Community Engagement
+GST 303 - Leadership in Your Field
+GST 304 - First Year Peer Advisement Program
+GST 305 - Transfer Student Mentoring
+GST 306 - Oswego Children’s Project: Introduction and Training
+GST 307 - Oswego Children’s Project:Advanced Training and Site Placement
+GST 308 - Peer Tutor Training
+GST 311 - Mentor Scholar Program: Mentors
+GST 312 - Mentor-Scholar Program: Team Leaders
+GST 313 - STEM Mentoring
+GST 314 - Creating Digital Presentations for Digital OZ
+GST 315 - Transfer Success Seminar
+GST 318 - CSC Peer Education Course
+GST 333 - Career Practica
+GST 350 - Lifestyles Center Peer Education
+GST 498 - Internship
+GST 498C - Cooperative Education
+GCH 436 - Solid Earth Geochemistry
+GCH 437 - Earth Surface Geochemistry
+GCH 438 - Isotope Geochemistry
+GCH 494 - Capstone Research in Geochemistry
+GEG 100 - Introduction to Geography
+GEO 100 - Physical Geology
+GEO 101 - Physical Geology Laboratory
+GEO 105 - Dinosaurs!
+GEO 115 - Environmental Sustainability
+GEO 200 - Historical Geology
+GEO 201 - Historical Geology Lab
+GEO 301 - Environmental Geology for Majors
+GEO 303 - Pollution Disasters
+GEO 304 - Fire and Ice
+GEO 305 - Earth Resources
+GEO 306 - Science, Pseudoscience and Fraud
+GEO 308 - Geology of New York State
+GEO 310 - Mineralogy
+GEO 315 - Earth’s Fury
+GEO 325 - Geology of the Bahamas
+GEO 326 - Geographic Information Systems
+GEO 330 - Structural Geology
+GEO 340 - Geophysics
+GEO 350 - Introduction to Remote Sensing
+GEO 390 - Special Topics in Geology
+GEO 396 - Geology Teaching Assistant
+GEO 399 - Independent Study
+GEO 416 - Igneous and Metamorphic Petrology
+GEO 420 - Sedimentation and Stratigraphy
+GEO 430 - Hydrogeology
+GEO 435 - Volcanology
+GEO 440 - Invertebrate Paleontology
+GEO 442 - Taphonomy
+GEO 450 - Geomorphology
+GEO 460 - Engineering Geology
+GEO 470 - Exploration Geology
+GEO 475 - Geochemistry
+GEO 480 - Tectonics
+GEO 481 - Field Geology
+GEO 486 - Field Techniques
+GEO 495 - Geoscience Research
+GEO 499 - Independent Study
+GER 101 - Elementary German
+GER 102 - Continuing Elementary German
+GER 140 - German Castles, Customs, and Culture
+GER 141 - Brothers Grimm Fairy Tales
+GER 200 - German Conversation Through Film
+GER 201 - Intermediate German
+GER 202 - Continuing Intermediate German
+GER 204 - German Fairy Tales
+GER 300 - Landeskunde
+GER 301 - Advanced German A
+GER 302 - Advanced German B
+GER 304 - Deutsche Märchen (translation=German Fairy Tales)
+GER 310 - Business German
+GER 350 - Survey of German Literature and Culture A
+GER 351 - Survey of German Literature and Culture B
+GER 392 - Berlin in the 20th Century
+GER 395 - Topics Seminar
+GER 396 - German Assistantship
+GER 399 - Independent Study
+GER 441 - German Translation: Methods and Practice
+GER 470 - Austrian Literature
+GER 495 - Seminar
+GER 498 - German Internship
+GER 499 - Independent Study
+GRT 385 - Research in Applied Gerontology
+GLS 100 - Global Cities
+GLS 200 - Introduction to Global Issues
+GLS 300 - Issues in the Global Economy
+GLS 301 - Globalization and Global Cultures
+GLS 305 - Topics in Global and International Studies
+GLS 316 - Impact and Infulence of Fermentation Science in a Global Society
+GLS 318 - Exploring Culture in the Cuban Context
+GLS 400 - Seminar in Global Studies
+GLS 401 - Internship in Global and International Studies
+GLS 402 - Practicum in International Development
+HSC 101 - Introduction to Health Promotion and Wellness
+HSC 120 - Human Body Systems
+HSC 198 - BOUNCE onto Campus
+HSC 230 - Health and Technology
+HSC 232 - Introduction to Personal Training
+HSC 234 - Personal Training Practicum
+HSC 241 - Critical Health Issues
+HSC 250 - Concepts of Peer Health Education
+HSC 300 - Emergency Medical Technician-Basic
+HSC 310 - Disease: Lifestyle and Environment
+HSC 315 - Nutrition Concepts
+HSC 325 - Women’s Health Issues
+HSC 332 - Essentials of Exercise Physiology
+HSC 333 - Human Response to Stress
+HSC 334 - Applied Kinesiology
+HSC 343 - Drug Use and Abuse in Society
+HSC 353 - Wellness and Aging
+HSC 363 - Emotional Wellness
+HSC 386 - Wellness for Contemporary Living
+HSC 390 - Special Topics in Health, Wellness or Sport
+HSC 395 - Wellness Coach Practicum
+HSC 397 - Exploratory Practicum in Wellness Management
+HSC 399 - Independent Study
+HSC 415 - Nutrition Controversies
+HSC 425 - Sports Nutrition
+HSC 430 - Health Disparities
+HSC 435 - The Science of Nutrition
+HSC 448 - Health Promotion Program Planning
+HSC 460 - Exercise Prescription and Leadership
+HSC 470 - Wellness Skills: Application and Assessment
+HSC 488 - Evaluation and Research in Health Promotion
+HSC 498 - Internship in Wellness Management
+HSC 499 - Independent Study
+HIS 100 - The West and the World to 1500
+HIS 101 - The West and the World, 1500-1900
+HIS 102 - World History in the Twentieth Century
+HIS 202 - History of the United States to 1865
+HIS 203 - History of the United States Since 1865
+HIS 204 - African American History
+HIS 206 - Africa to 1800
+HIS 207 - Africa since 1800
+HIS 208 - Modern Asia
+HIS 209 - Traditional Asia and Its Legacy
+HIS 212 - Women in History
+HIS 215 - Introduction to Latin American Civilizations
+HIS 216 - Modern Latin America
+HIS 230 - The Western Heritage I
+HIS 231 - The Western Heritage II
+HIS 244 - Introduction to Global Sport History
+HIS 248 - Women in American History to 1865
+HIS 249 - Women in American History, 1865 to Present
+HIS 298 - Historical Methods
+HIS 300 - European Intellectual History in the 19th Century
+HIS 301 - European Intellectual History in the 20th Century
+HIS 307 - World War I
+HIS 308 - Jews, Christians, and Muslims to 1500
+HIS 311 - Europe in an Age of Revolution, 1789 - 1848
+HIS 312 - Early Middle Ages
+HIS 313 - High and Late Middle Ages
+HIS 315 - Ancient Rome
+HIS 317 - Renaissance Europe
+HIS 319 - History of England, 1914 - 1950
+HIS 323 - Europe Between the World Wars, 1917-1939
+HIS 324 - Europe Since 1945
+HIS 326 - World War II
+HIS 329 - The Cold War
+HIS 330 - History of Russia to 1917
+HIS 331 - Twentieth Century Russia
+HIS 333 - History of Sexuality in the U.S. and Ireland
+HIS 335 - History & Civilizations in South Asia
+HIS 336 - South Asian Sacred Spaces
+HIS 337 - Social and Cultural History of Sport
+HIS 338 - History of Yoga
+HIS 341 - America’s Vietnam War
+HIS 343 - Colonial America
+HIS 344 - American Immigration and Ethnic History
+HIS 345 - The Early Republic: US 1789-1848
+HIS 348 - Women in Twentieth Century United States
+HIS 350 - Slavery In America to 1865
+HIS 352 - The Gilded Ages and Progressive Era
+HIS 353 - The Black Power Movement
+HIS 354 - Native American History
+HIS 356 - Civil War and Reconstruction
+HIS 358 - American Urban History
+HIS 363 - The American Revolution
+HIS 367 - Global Disease
+HIS 369 - The United States Since 1945
+HIS 370 - Topics in History
+HIS 372 - History of Blaxploitation Cinema
+HIS 373 - History of Mexico
+HIS 379 - History in Video Games
+HIS 381 - History of Human Trafficking
+HIS 383 - Modern China
+HIS 384 - Contemporary Chinese History Through Film: 1900 to Present
+HIS 385 - Modern Japan
+HIS 389 - History of the Middle East
+HIS 390 - Harems, Bathhouses, and Brothels: Society, Gender, and Sexuality in the Early Modern Islamic World
+HIS 391 - Modernization and Development in Africa
+HIS 392 - History of Islam in Africa
+HIS 393 - Women and War in the Twentieth Century
+HIS 394 - History of the Ottoman Empire
+HIS 451 - Topics in American History
+HIS 453 - Research Seminar in American History
+HIS 461 - Topics in European History
+HIS 463 - Research Seminar in European History
+HIS 470 - Reading Seminar in History
+HIS 471 - Topics in World and Transnational History
+HIS 473 - Research Seminar in World and Transnational History
+HIS 491 - History Honors II (Research)
+HIS 496 - Peer Educator in College History
+HIS 498 - Internship in History
+HIS 499 - Independent Study
+HON 140 - Western Intellectual Heritage
+HON 141 - American Intellectual Heritage
+HON 150 - Introduction to Honors
+HON 200 - Introduction to the Social Sciences
+HON 201 - Interpreting the Arts
+HON 204 - Honors Writing about Literature
+HON 250 - Weaving the Tapestry of Honors
+HON 300 - Natural Science in the Human Context
+HON 301 - In Search of Meaning
+HON 350 - Beginning the Honors Thesis
+HDV 101 - Introduction to Human Development
+HDV 120 - Fundamentals of Gerontology
+HDV 232 - Human Canine Interaction
+HDV 242 - Siblings and Close Relatives
+HDV 301 - Research Methods in Human Development I
+HDV 302 - Methods in Human Development II
+HDV 303 - Applied Field Experience and Analysis in HDV
+HDV 305 - Brain, Development, and Behavior
+HDV 313 - Human Sexual Development
+HDV 322 - Child Development
+HDV 323 - Adolescent Development
+HDV 324 - Adult Development
+HDV 325 - Family Dynamics Across the Lifespan
+HDV 326 - Developmental Perspectives on Death and Dying
+HDV 357 - Development of Criminal Behavior
+HDV 364 - Motivation Across the Lifespan
+HDV 368 - Diversity and Social Justice
+HDV 370 - Evolution and Human Behavior
+HDV 380 - Topics in Global Human Development
+HDV 400 - Research Designs and Applications in Human Development
+HDV 403 - Advanced Applied Field Experience and Analysis in HDV
+HDV 432 - Canine-Human Relationships
+HDV 455 - Victimization Across the Lifespan
+HDV 490 - Practicum in Research
+HDV 497 - Practicum in Teaching for HDV
+HDV 499 - Independent Study in Human Development
+HRM 385 - Organizational Behavior
+HRM 386 - Human Resource Management
+HRM 458 - Human Resource Staffing
+HRM 459 - Labor Relations
+HRM 462 - Employment Law
+HRM 463 - Compensation Management
+HRM 464 - Senior Seminar in Human Resource Management
+ISC 105 - Introduction to Digital Humanities
+ISC 110 - Introduction to Information Science
+ISC 150 - Introduction to Scripting and Markup Languages
+ISC 215 - Business Programming and Data Analysis Tools
+ISC 220 - Information Storage and Retrieval
+ISC 250 - Programming Through Mobile App Development
+ISC 300 - Ethics and Social Policy in the Digital Age
+ISC 325 - Multimedia/Hypermedia Design and Authoring
+ISC 329 - Database Management Systems in Business
+ISC 330 - Telecommunications
+ISC 370 - Issues in Human-Computer Interaction
+ISC 390 - Topics in Information Science
+ISC 399 - Independent Study
+ISC 405 - Seminar in Digital Humanities
+ISC 410 - Data Analytics
+ISC 471 - Introduction to Biomedical Information Systems
+ISC 484 - Software Entrepreneurship
+ISC 490 - Topics
+ISC 496 - Information Science Capstone Seminar
+ISC 498 - Internship in Information Science
+ISC 499 - Independent Study
+IST 190 - Global Issues and Awareness
+IST 390 - Global Issues and Awareness II
+INT 111 - Oral Interpretation of Literature
+INT 120 - Storytelling
+INT 399 - Independent Study
+ITA 101 - Elementary Italian
+ITA 102 - Continuing Elementary Italian
+ITA 201 - Intermediate Italian
+ITA 202 - Continuing Intermediate Italian
+ITA 301 - Advanced Italian A
+ITA 302 - Advanced Italian B
+JPN 101 - Elementary Japanese
+JPN 102 - Continuing Elementary Japanese
+JPN 201 - Intermediate Japanese
+JPN 202 - Continuing Intermediate Japanese
+JLM 101 - History of American Journalism
+JLM 209 - Introduction to Newswriting/Reporting
+JLM 220 - Copy Editing
+JLM 309 - Advanced Newswriting/Reporting
+JLM 310 - Investigative Reporting
+JLM 312 - Sports Reporting and Writing
+JLM 319 - Practicum-Oswego Online
+JLM 395 - Advanced Journalism Topics
+JLM 409 - News Analysis and Opinion Writing
+JLM 419 - Journalism Senior Capstone
+JLM 498 - Journalism Internship
+LIN 100 - Introduction to Linguistics
+LIN 200 - Phonetics, Phonology, and Morphology
+LIN 201 - Morphology, Syntax, and Semantics
+LIN 300 - Theories of Linguistic Analysis
+LIN 306 - Articulatory Phonetics
+LIN 345 - Sociolinguistics
+LIN 373 - Syntactic Structures of English
+LIN 399 - Independent Study
+LIN 400 - Investigating Language: An Applied Capstone Course
+LIT 311 - Language and Literacy Development for All Learners
+LIT 313 - Adolescence Literacy: Assessment and Intervention
+LIT 314 - Childhood Literacy: Assessment and Intervention
+LIT 396 - Teaching Literacy in the Content Areas Grades 7-12
+MGT 261 - Business Organization
+MGT 305 - Project Management
+MGT 310 - Operations Management
+MGT 350 - Entrepreneurship
+MGT 360 - Creativity and Innovation
+MGT 395 - International Business
+MGT 410 - Management Science
+MGT 415 - Decision Analysis
+MGT 425 - Supply Chain Management
+MGT 440 - The Management of Nonprofit Organizations
+MGT 444 - Topics in Management
+MGT 460 - Leadership
+MGT 468 - Change Management
+MGT 469 - Cultural Environment of International Business
+MGT 475 - Global Business and Society
+MGT 480 - Women in Management
+MGT 486 - Materials Management
+MGT 490 - Entrepreneurship Capstone Project
+MGT 494 - Seminar in Career Planning and Job Searching
+MGT 495 - Management Policy and Simulation
+MKT 250 - Marketing Principles
+MKT 320 - Digital Marketing Business Applications
+MKT 330 - Entrepreneurial Marketing and Sales
+MKT 360 - Social Media Marketing
+MKT 370 - Consumer Behavior
+MKT 375 - Marketing Research
+MKT 378 - Sales Management
+MKT 390 - Global Marketing
+MKT 395 - Electronic Marketing
+MKT 420 - Marketing Analystics
+MKT 465 - Topics in Marketing
+MKT 466 - Seminar in Marketing Management
+MKT 467 - Integrated Marketing Communications
+MAT 102 - Foundations of Mathematics in the Real World
+MAT 103 - Symmetries
+MAT 104 - College Algebra
+MAT 106 - Number Systems and Operations
+MAT 120 - Precalculus
+MAT 158 - Introduction to Statistics A
+MAT 159 - Statistics and Society
+MAT 179 - Measuring Life
+MAT 206 - Introduction to Geometry and Probability
+MAT 208 - Mathematical Applications for Business and Management
+MAT 210 - Calculus I
+MAT 215 - Introduction to Discrete Mathematics
+MAT 220 - Calculus II
+MAT 230 - Matrix Algebra
+MAT 240 - Multivariable Calculus
+MAT 249 - Engineering Mathematics
+MAT 258 - Introduction to Statistics B
+MAT 300 - History of Mathematics
+MAT 304 - Mathematical Topics in the Secondary Curriculum
+MAT 306 - Techniques of Problem Solving
+MAT 307 - Fundamentals of Geometry
+MAT 310 - Introduction to Linear and Integer Programming
+MAT 318 - Statistics in the Sciences
+MAT 320 - Numerical Analysis I
+MAT 330 - Introduction to Algebra
+MAT 332 - Cryptology
+MAT 335 - College Geometry
+MAT 339 - Discrete Mathematics and Statistics
+MAT 347 - Analysis A
+MAT 348 - Ordinary Differential Equations
+MAT 351 - Introduction to Forecasting
+MAT 352 - Statistical Quality and Process Control
+MAT 353 - Mathematical Modeling
+MAT 354 - Mathematical Statistics A
+MAT 357 - Applied Regression Analysis
+MAT 358 - Design and Analysis of Experiments
+MAT 373 - Number Theory
+MAT 378 - Data Mining and Predictive Analytics
+MAT 379 - Environmental Statistics
+MAT 390 - Selected Topics
+MAT 399 - Independent Study
+MAT 409 - Mathematical Economics Problem Seminar
+MAT 430 - Algebra
+MAT 442 - Complex Analysis
+MAT 447 - Analysis B
+MAT 448 - Partial Differential Equations and Orthogonal Functions
+MAT 454 - Mathematical Statistics B
+MAT 496 - Capstone Project
+MAT 498 - Internship in Mathematics
+MAT 499 - Independent Study
+MAX 100 - Basic Mathematics
+MAX 101 - Intermediate Algebra
+MAX 105 - Elements of Mathematics for Prospective Students
+MDS 301 - Topics in Medieval and Renaissance Studies
+MDS 400 - Medieval and Renaissance Studies Interdisciplinary Seminar
+MET 100 - Meteorology
+MET 210 - Meteorology for Science Majors I
+MET 211 - Meteorology Science Majors Lab
+MET 215 - Global Weather and Climate Catastrophes
+MET 220 - Meteorology for Science Majors II
+MET 301 - Synoptic Meteorology I
+MET 302 - Synoptic Meteorology Laboratory I
+MET 303 - Synoptic Meteorology II
+MET 304 - Synoptic-Dynamic Meteorology Laboratory II
+MET 305 - Climatology
+MET 310 - Computer Applications in Meteorology
+MET 315 - Weather Disasters
+MET 320 - Humans and Atmospheric Change
+MET 325 - Field Experience Storm Observation & Forecast
+MET 335 - Micrometeorology
+MET 340 - Air Pollution
+MET 350 - Meteorological Experimentation
+MET 350 LAB - Meteorological Experimentation Laboratory
+MET 365 - Tropical Meteorology
+MET 390 - Special Topics in Meteorology
+MET 396 - Meteorology Teaching Assistant
+MET 399 - Independent Study
+MET 401 - Atmospheric Physics: Radiation and Remote Sensing
+MET 402 - Atmospheric Physics: Atmospheric Aerosol and Cloud Physics
+MET 411 - Dynamic Meteorology I
+MET 412 - Dynamic Meteorology II
+MET 415 - Mesometeorology
+MET 416 - Remote Sensing and Mesoscale Meteorology Lab
+MET 420 - Broadcast Meteorology and Weather Forecasting
+MET 497 - Seminar in Meteorology
+MET 498 - Internship
+MET 499 - Independent Study
+MUS 100 - Fundamentals of Music Theory
+MUS 101 - Introduction to the Worlds of Music
+MUS 104 - Aural Skills I
+MUS 110 - Introduction to Music Listening through Folk and Classical
+MUS 112 - Introduction to Music Literature
+MUS 113 - Introduction to Music Literature and History
+MUS 115 - Global Tones - Introduction to World Music
+MUS 117 - Introduction to Music Listening through Jazz, Rock, and Pop
+MUS 200 - Intermediate Music Theory I
+MUS 201 - Intermediate Music Theory II
+MUS 204 - Aural Skills II
+MUS 206 - Introduction to Music Technology
+MUS 210 - Western Heritage Survey of Music I
+MUS 211 - Western Heritage Survey of Music II
+MUS 215 - The Art of Songwriting
+MUS 220 - Concert Attendance
+MUS 230 - Class Piano I
+MUS 231 - Class Piano II
+MUS 240 - Voice, Class Instruction I
+MUS 285 - Guitar Class Instruction I
+MUS 286 - Guitar Class Instruction II
+MUS 288 - Efficient Body Use in the Performing Arts
+MUS 290 - Wind Ensemble
+MUS 291 - College/Community Orchestra
+MUS 292 - College Choir
+MUS 293 - Oswego State Jazz Ensemble
+MUS 294 - Oswego State Singers
+MUS 295 - Ensemble
+MUS 297 - Oswego Festival Chorus
+MUS 300 - Advanced Music Theory I
+MUS 301 - Advanced Music Theory II
+MUS 302 - Orchestration
+MUS 303 - Conducting I
+MUS 304 - Contemporary Improvisation
+MUS 305 - Jazz Composition and Arranging
+MUS 307 - Opera: The Rise of Western Musical Drama
+MUS 310 - History of Music Survey I
+MUS 311 - History of Music Survey II
+MUS 313 - Music of the Classic Period
+MUS 314 - Music of the Romantic Period
+MUS 316 - American Music
+MUS 317 - The Evolution of Jazz and Rock
+MUS 318 - Heavy Metal
+MUS 319 - Piano Literature
+MUS 323 - Women and Music
+MUS 325 - Advanced Electronic Music
+MUS 329 - Music and Politics
+MUS 330 - Class Piano III
+MUS 331 - Piano, Individual Instruction
+MUS 333 - Beginning Jazz Piano
+MUS 341 - Voice, Individual Instruction
+MUS 345 - Music Theatre Workshop
+MUS 346 - Applied Composition Lessons
+MUS 351 - Violin, Individual Instruction
+MUS 352 - Viola, Individual Instruction
+MUS 353 - Cello, Individual Instruction
+MUS 354 - Double Bass, Individual Instruction
+MUS 361 - Flute, Individual Instruction
+MUS 362 - Single Reeds, Individual Instruction
+MUS 363 - Double Reeds, Individual Instruction
+MUS 371 - Trumpet, Individual Instruction
+MUS 372 - French Horn, Individual Instruction
+MUS 373 - Trombone, Individual Instruction
+MUS 374 - Baritone or Tuba, Individual Instruction
+MUS 381 - Percussion, Individual Instruction
+MUS 382 - Recording Technology I
+MUS 383 - Recording Technology II
+MUS 386 - Guitar, Bass Guitar, Individual Instruction
+MUS 390 - African Music in the Americas
+MUS 391 - Music in Italy: Rome, Florence and Venice
+MUS 397 - The Business of Music
+MUS 399 - Independent Study
+MUS 403 - Intermediate Conducting
+MUS 413 - Beethoven
+MUS 431 - Piano, Individual Instruction
+MUS 435 - Piano Pedagogy
+MUS 441 - Voice, Individual Instruction
+MUS 446 - Applied Composition Lessons (Upper Division)
+MUS 451 - Violin, Individual Instruction
+MUS 452 - Viola, Individual Instruction
+MUS 453 - Cello, Individual Instruction
+MUS 454 - Double Bass, Individual Instruction
+MUS 461 - Flute, Individual Instruction
+MUS 462 - Single Reeds, Individual Instruction
+MUS 463 - Double Reeds, Individual Instruction
+MUS 471 - Trumpet, Individual Instruction
+MUS 472 - French Horn, Individual Instruction
+MUS 473 - Trombone, Individual Instruction
+MUS 474 - Baritone or Tuba, Individual Instruction
+MUS 481 - Percussion, Individual Instruction
+MUS 482 - Recording Technology III
+MUS 483 - Recording Technology IV
+MUS 486 - Guitar, Bass Guitar, Individual Instruction
+MUS 488 - Efficient Body Use in the Performing Arts
+MUS 490 - Wind Ensemble
+MUS 491 - College/Community Orchestra
+MUS 492 - College Choir
+MUS 493 - Oswego State Jazz Ensemble
+MUS 494 - Oswego State Singers
+MUS 495 - Ensemble
+MUS 496 - Senior Seminar/Capstone Experience
+MUS 497 - Oswego Festival Chorus
+MUS 498 - Music Internship
+MUS 499 - Independent Study
+NAS 100 - Introduction to Native American Studies
+NAS 240 - American Indian Philosophies and Religions
+NAS 340 - Native American Women
+NAS 350 - Contemporary Native America
+NAS 360 - American Indian Sovereignty
+NAS 390 - Images of Native Americans in Film
+NAS 499 - Independent Study
+OCE 100 - Oceanography
+OCE 399 - Independent Study
+PCS 200 - Peace and Conflict Studies
+PHL 100 - Introduction to Problems of Philosophy
+PHL 111 - Valid Reasoning I
+PHL 205 - Ethics I: Introduction to Classical Ethics
+PHL 220 - Theory of Knowledge
+PHL 235 - History of Ancient Philosophy
+PHL 236 - History of Modern Philosophy
+PHL 295 - His Western Sci & Tech
+PHL 300 - Ethics and Policy in the Digital Age
+PHL 305 - Ethics II: Contemporary Ethics
+PHL 306 - Business Ethics
+PHL 307 - Philosophy, Public Policy and Public Affairs
+PHL 308 - Medical Ethics
+PHL 309 - Logic, Language, and Thought
+PHL 310 - Valid Reasoning II
+PHL 313 - Philosophy of Language
+PHL 314 - Existentialism
+PHL 317 - Philosophy of Religion
+PHL 321 - Philosophy of Science
+PHL 322 - Philosophy of Social Sciences
+PHL 323 - Philosophy of Biology
+PHL 337 - History of Recent Philosophy
+PHL 348 - Philosophy and Feminism
+PHL 370 - Metaphysics
+PHL 442 - Social and Political Philosophy
+PHL 443 - Philosophy of Law
+PHL 450 - Current Topics in Philosophy Seminar
+PHL 471 - Philosophy of Mind
+PHL 496 - Joint Seminar in Philosophy-Psychology
+PHL 497 - Capstone Seminar in Philosophy
+PHL 499 - Independent Study
+PPE 495 - Philosophy, Politics, and Economics Senior Capstone
+PPE 496 - Philosophy, Politics, and Economics
+PED 137 - Basic Self Defense for Women (Rape Aggression Defense)
+PED 215 - Principles, Philosophy, and Organization of Athletics in Education
+PED 225 - Underwater Diving (Scuba)
+PED 226 - Advanced Open Water Diving
+PED 290 - Intercollegiate Athletics
+PED 295 - Life Skills
+PED 325 - Women in Sport
+PED 340 - Health Sciences Applied to Coaching
+PED 350 - Theory and Techniques of Coaching
+PED 399 - Independent Study
+PED 440 - Athletic Training
+PED 499 - Independent Study
+PHY 101 - Introductory Physics
+PHY 111 - College Physics I
+PHY 112 - General University Physics I
+PHY 195 - Physics Seminar
+PHY 204 - Physics of Sound and Music
+PHY 205 - Energy and the Environment: A Global View
+PHY 206 - Physics for Elementary Education Majors
+PHY 212 - College Physics II
+PHY 213 - General University Physics II
+PHY 303 - Beginnings of Science: World View
+PHY 313 - General University Physics III
+PHY 313 LAB - General University Physics III Laboratory
+PHY 314 - Modern Physics
+PHY 314 LAB - Modern Physics Laboratory
+PHY 321 - Electronics
+PHY 321 LAB - Electronics Laboratory
+PHY 322 - Optics
+PHY 322 LAB - Optics Laboratory
+PHY 340 - Thermodynamics and its Applications
+PHY 362 - Electrical Circuits and Machines
+PHY 363 - Materials Science
+PHY 397 - Teaching Physics
+PHY 423 - Quantum Physics II
+PHY 423 LAB - Quantum Physics II Laboratory
+PHY 431 - Advanced Laboratory in Nuclear Physics
+PHY 435 - Computational Physics
+PHY 436 - Advanced Mechanics
+PHY 437 - Advanced Quantum Mechanics
+PHY 439 - Advanced Electromagnetic Theory
+PHY 467 - Special Topics in Physics
+PHY 496 - Senior Research Project
+PHY 499 - Independent Study
+POL 201 - Global Politics
+POL 203 - Critical Thinking in Politics
+POL 205 - American Government and Politics
+POL 215 - Law and Courts
+POL 300 - Topics in Political Science
+POL 303 - Ancient and Medieval Political Thought
+POL 306 - African American Political Thought
+POL 307 - European Politics
+POL 308 - Global Challenges
+POL 309 - International Law
+POL 311 - Public Policy Analysis
+POL 313 - Modern Political Thought
+POL 315 - United States Congress
+POL 316 - American Political Thought
+POL 318 - Global Ethics
+POL 319 - International Organization
+POL 323 - Postmodern Political and Social Theory
+POL 325 - The Presidency
+POL 327 - African Politics
+POL 328 - Politics and Literature
+POL 329 - American Foreign Policy
+POL 330 - Internet Politics
+POL 333 - Global Political Theory
+POL 335 - The Supreme Court
+POL 336 - Pop Culture and Politics
+POL 337 - Middle East Politics
+POL 338 - Politics and Film
+POL 339 - International Relations Theory
+POL 343 - Democratic Theory
+POL 345 - American Constitutional Law
+POL 346 - American Political Development
+POL 347 - Politics of Development
+POL 348 - Contentious Politics
+POL 353 - Contemporary Political Theory
+POL 355 - Civil Liberties
+POL 356 - Freedom of Speech
+POL 357 - Latin American Politics
+POL 358 - Narrative, Leanguage & Politics
+POL 359 - The Nation-State and Global Order
+POL 363 - Feminist Social and Political Theory
+POL 368 - International Politics and Security of the Asia Pacific
+POL 369 - Terrorism and Political Violence
+POL 378 - Gender and Global Politics
+POL 379 - War, Technology, and the Modern State
+POL 385 - Law and Society
+POL 386 - Vote Oswego
+POL 387 - Global Environmental Politics
+POL 388 - Chinese Foreign Policy
+POL 389 - Security Studies
+POL 405 - Mass Media and Public Opinion
+POL 409 - Comparative Energy Policy
+POL 415 - Women and Politics
+POL 490 - Political Science Honors
+POL 495 - Teaching Assistant in Politics
+POL 497 - Seminar in Political Science
+POL 498 - Internship in Political Science
+POL 499 - Independent Study
+POR 101 - Elementary Portuguese
+POR 102 - Continuing Elementary Portuguese
+POR 201 - Intermediate Portuguese
+PSY 100 - Introduction to Psychology
+PSY 111 - Seminar in Psychological Science
+PSY 200 - Lifespan Development Psychology
+PSY 201 - Drugs & Behavior
+PSY 202 - Memory and Cognition in Everyday Life
+PSY 203 - Canine Cognition and Behavior
+PSY 280 - Analysis of Psychological Data
+PSY 290 - Research Methods in Psychology
+PSY 302 - Learning
+PSY 303 - Biopsychology
+PSY 305 - Cognition
+PSY 310 - Topics in Psychology
+PSY 320 - Developmental Psychology
+PSY 330 - Educational Psychology
+PSY 340 - Social Psychology
+PSY 343 - Health Psychology
+PSY 344 - Psychology of Women
+PSY 345 - Industrial/Organizational Psychology
+PSY 346 - Sport Psychology
+PSY 350 - Abnormal Psychology
+PSY 361 - Psychology of Language
+PSY 399 - Independent Study
+PSY 401 - Perception
+PSY 402 - Learning
+PSY 403 - Biopsychology
+PSY 405 - Cognition
+PSY 407 - Human Factors Psychology
+PSY 410 - Advanced Topics in Psychology
+PSY 411 - Introduction into Neural Networks
+PSY 423 - Psychology Adulthood & Aging
+PSY 424 - Social Cognition
+PSY 426 - Development and Interpersonal Relationships
+PSY 428 - Cognitive Development
+PSY 433 - Primate Cognition
+PSY 435 - Cognitive Systems
+PSY 441 - Theories of Personality
+PSY 444 - Emotion
+PSY 450 - Topics in Abnormal Psychology
+PSY 451 - Advanced Topics in Abnormal Psychology: Trauma and Loss
+PSY 452 - Introduction to Trauma Studies
+PSY 454 - Trauma and Self-Care: Compassion Fatigue
+PSY 455 - Trauma and the Military: Focus on Combat Stress
+PSY 456 - Trauma & Children
+PSY 459 - Ethno Cultural Aspects of Trauma
+PSY 461 - Brain Injury and Psychopathology
+PSY 463 - Cognitive Neuroscience Seminar
+PSY 465 - Neurobehavioral Toxicology
+PSY 470 - Evolutionary Psychology
+PSY 471 - Advanced Statistics in Psychological Science
+PSY 472 - Advanced Research Methods in Psychological Science
+PSY 473 - Hormones and Behavior
+PSY 475 - History and Current Systems in Psychology
+PSY 475H - History and Current Systems in Psychology
+PSY 480 - Advanced Topics in Research Methods: Advanced Psychological Statistics
+PSY 485 - Prevention Science & Practice
+PSY 490 - Research Seminar
+PSY 490H - Capstone Honors Research Seminar
+PSY 491 - Capstone Laboratory Research
+PSY 496 - Capstone Senior Thesis in Psychology
+PSY 497 - Practicum in Teaching
+PSY 498 - Capstone Internship in Psychology
+PSY 499 - Independent Study
+RMI 300 - Introduction to Risk Management and Insurance
+RMI 310 - Property and Liability Insurance
+RMI 311 - Property & Casualty Insurance Producer Topics
+RMI 320 - Employee Benefits
+RMI 400 - Life and Health Insurance
+RMI 450 - Risk Management Problems and Cases
+SOC 100 - Introductory Sociology
+SOC 180 - Introduction to Social Work
+SOC 210 - Theory I: Foundation of Sociological Theory
+SOC 220 - Introduction to Social Research
+SOC 221 - Introduction to Social Statistics
+SOC 260 - Race, Ethnicity, Class, and Gender
+SOC 280 - Social Problems
+SOC 301 - Topics in Sociology
+SOC 302 - Teaching Sociology I
+SOC 310 - Contemporary Sociological Theory
+SOC 320 - Survey Methodology
+SOC 330 - Qualitative Research Methods
+SOC 341 - Social Inequality/Stratification
+SOC 351 - The Changing Modern Family
+SOC 355 - Sociology of Sports
+SOC 366 - Popular Culture
+SOC 367 - Globalization and Poverty
+SOC 369 - Environmental Sociology
+SOC 370 - Sociology of Deviance
+SOC 371 - Criminology
+SOC 373 - Gangs in American Society
+SOC 374 - Family Violence
+SOC 381 - Sociology of Gender Roles
+SOC 383 - Sociology of Aging
+SOC 399 - Independent Readings/Project
+SOC 402 - Teaching Sociology II
+SOC 442 - Races & Minorities
+SOC 460 - Dynamics of Prejudice and Discrimination
+SOC 463 - Social Movements
+SOC 487 - Restorative Justice
+SOC 490 - Senior Seminar in Sociology
+SOC 498 - Internship in Sociology
+SOC 499 - Independent Study for Honors
+SPA 101 - Elementary Spanish
+SPA 102 - Continuing Elementary Spanish
+SPA 201 - Intermediate Spanish
+SPA 202 - Continuing Intermediate Spanish
+SPA 301 - Advanced Spanish A
+SPA 302 - Advanced Spanish B
+SPA 310 - Business Spanish
+SPA 350 - Survey of Spanish Literature A
+SPA 351 - Survey of Spanish Literature B
+SPA 352 - Survey of Spanish-American Literature A
+SPA 353 - Survey of Spanish-American Literature B
+SPA 381 - Life and Thought in Spain
+SPA 395 - Seminar
+SPA 396 - Spanish Teaching Assistantship
+SPA 399 - Independent Study
+SPA 410 - Advanced Grammar Analysis
+SPA 425 - The Literature of Spain in the 20th Century
+SPA 430 - Literature of Spain in 19th Century
+SPA 447 - The Spanish-American Novel
+SPA 448 - Short Fiction of Spanish America
+SPA 450 - Siglo De Oro
+SPA 451 - Siglo De Oro
+SPA 461 - Literature of Spain in 19th Century
+SPA 471 - Medieval Spanish Literature
+SPA 480 - Capstone Seminar
+SPA 495 - Seminar
+SPA 498 - Spanish Internship
+SPA 499 - Independent Study
+SPE 303 - Field Placement II: Small-Group Instruction in Inclusive Classrooms
+SPE 304 - Educational Planning for Students with Disabilities
+SPE 363 - Field Placement II: Small-Group Instruction in Inclusive Classrooms
+SPE 393 - Field Placement II: Small-Group Instruction in 7-12 Inclusive Classrooms
+SUS 101 - Eco Reps
+SUS 115 - Economic and Political Foundations of Sustainability
+SUS 300 - Topics in Sustainability
+SUS 498 - Internship in Sustainability
+TEL 101 - Engineering Graphics and Technical Illustration
+TEL 110 - Design and Technology
+TEL 120 - Introduction to Materials Technologies
+TEL 130 - Computing Technology and Information Systems for Technology Careers
+TEL 203 - Materials Processing and Fabrication
+TEL 204 - Materials Molding and Forming
+TEL 205 - Materials Precision Production
+TEL 210 - Design & Problem Solving
+TEL 240 - Electronics Technology
+TEL 247 - Computer Aided Design
+TEL 250 - Transportation and Power Technology
+TEL 323 - Construction Systems
+TEL 328 - Comp Aided Est. and Site Management
+TEL 343 - Digital Electronics Systems
+TEL 347 - Computer Assisted Design and Drafting
+TEL 353 - Transportation Systems
+TEL 355 - Energy and Power Technology
+TEL 363 - Communication and Multimedia Systems
+TEL 373 - Biotechnical Systems
+TEL 393 - Manufacturing Systems
+TEL 396 - Laboratory Management Practicum
+TEL 397 - Laboratory Instruction Practicum
+TEL 401 - Architectural Drawing
+TEL 412 - Design Probe I
+TEL 433 - Metals Manufacturing Technology
+TEL 442 - Mechatronic Systems
+TEL 451 - Computer Integrated Manufacturing Technologies
+TEL 457 - CAD:  Engineering and Analysis
+TED 201 - Introduction to Teaching Technology Education
+TED 206 - Introduction to Technology Education Curriculum
+TED 209 - Technical Writing and Literacy
+TED 211 - Field Experience I - Observation and Participation in a Technology Education Environment
+TED 216 - Field Experience II - Assisting in a Technology Education Environment
+TED 306 - Teaching Methods for Technology Education
+TED 310 - Technology and Civilization
+TED 316 - Field Experience III-Methods of Teaching Technology Education Practicum
+TED 399 - Independent Study
+TED 400 - Workshop in Technology Education
+TED 404 - Occupational and Corporate Safety
+TED 410 - Professional Field Experience
+TED 411 - Professional Field Experience
+TED 414 - Professional Topics and Problems
+TED 445 - Introduction to STEM Learning
+TED 446 - Practicum in STEM Teaching
+TED 482 - Engineering Concepts for Technology and Engineering Education
+TED 494 - Seminar in Career Planning
+TED 498 - Professional Internship
+TED 499 - Independent Study
+TSL 302 - Perspectives on Schools, Homes & Communities
+TSL 320 - Methods of Teaching English to Speakers of Other Languages I
+TSL 323 - Clinically Rich Field Experience I: TESOL
+TSL 325 - Linguistics and English Language Teaching
+TSL 360 - Methods of Teaching English to Speakers of Other Languages II
+TSL 363 - Clinically Rich Field Experience II: TESOL
+TSL 420 - Clinically Rich Student Teaching I: TESOL
+TSL 421 - Clinically Rich Student Teaching II: TESOL
+THT 110 - Introduction to the Theatre
+THT 119 - Introduction to Technical Theatre
+THT 120 - Stagecraft
+THT 121 - Stage Electronics and Mechanics
+THT 130 - Fundamentals of Acting
+THT 145 - Basic Stage Makeup
+THT 150 - Basic Costuming
+THT 180 - Voice and Diction for the Theatre
+THT 181 - Movement for the Actor
+THT 201 - Developmental Drama
+THT 205 - Production Seminar
+THT 222 - Introduction to Theatre Design
+THT 230 - Intermediate Acting
+THT 251 - Costume History
+THT 268 - History of the American Theatre
+THT 285 - Text Analysis
+THT 300 - Advanced Theatre Production
+THT 308 - Women and the Theatre
+THT 310 - Stage Lighting Design
+THT 312 - Theatre Sound
+THT 314 - Theatrical Stage Properties
+THT 322 - Basic Scene Design
+THT 323 - Stagecraft 2
+THT 324 - The Business of Show Business
+THT 328 - Scene Painting
+THT 330 - Advanced Character Development
+THT 333 - Stage Management
+THT 334 - Dramaturgy
+THT 341 - Principles of Directing
+THT 345 - Advanced Stage Make-up
+THT 351 - Costume Design
+THT 352 - Acting Shakespeare
+THT 353 - Advanced Costume Construction
+THT 359 - Costume and Culture
+THT 362 - Black Theatre History
+THT 364 - Western Theatre: Edification or Entertainment?
+THT 365 - Theatre of India, China and Japan
+THT 367 - Western Theatre II: Neoclassicism to the Present
+THT 381 - Advanced Movement
+THT 399 - Independent Study
+THT 430 - Period Styles for the Actor
+THT 440 - Advanced Directing
+THT 451 - Advanced Costume Design
+THT 470 - Seminar in Theatre Arts
+THT 473 - The Theatre of Comedy
+THT 490 - Studio I
+THT 491 - Studio II
+THT 495 - Senior Seminar/Capstone Experience
+THT 498 - Internship
+THT 499 - Independent Study
+VTP 307 - Introduction to Vocational Education
+VTP 309 - Vocational Curriculum Development
+VTP 312 - Methods of Teaching Vocational Subjects
+VTP 313 - Instructional Assessment in Vocational Education
+VTP 314 - Classroom and Laboratory Organization and Management
+VTP 316 - Curriculum & Laboratory Systems in CTE
+VTP 317 - Methods of Teaching and Assessment in CTE
+VTP 331 - Occupational Competency Written Examination
+VTP 332 - Occupational Competency Performance Examination
+VTP 442 - The Adult Learner in Technical Education
+VTP 444 - Serving Special Needs Learners in Vocational Education
+VTP 445 - Language Arts and Literacy in the Vocational Classroom
+VTP 448 - Vocational Student Organizations
